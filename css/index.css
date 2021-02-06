@@ -134,3 +134,10 @@ button:hover{
 .artist img{
     width:100%;
 }
+/* Responsive Breakpoint*/
+@media(min-width:500px) {
+    header nav a {
+        font-size: 2rem;
+        padding: 0 20%;
+    }
+}
