@@ -238,4 +238,7 @@ button:hover {
   .bio {
     font-size: 1.1rem;
   }
+  a {
+    font-size: 1.5rem;
+  }
 }
